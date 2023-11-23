@@ -1,5 +1,5 @@
 from random import randint
-
+"""Import randint function."""
 
 DEFAULT_ATTACK = 5
 DEFAULT_DEFENCE = 10
